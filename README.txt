@@ -10,6 +10,6 @@ Example usage: affine_brute_force string ZEBBW | less
 
 The affinelib directory contains functions to encrypt and decrypt characters using the Affine cipher.
 
-These programs can only encrypt and decrypt uppercase letters [A-Z], will leave space characters(' ', '\t', '\n', '\v', '\f', '\r') unchanged and does not check the validity of text or keys.
+These programs can only encrypt and decrypt uppercase letters [A-Z], will leave space characters(' ', '\t', '\n', '\v', '\f', '\r') unchanged and do not check the validity of text or keys.
 
 These programs can be compiled using make.
