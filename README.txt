@@ -1,3 +1,5 @@
+This project was created for my Computer Security class in Spring 2015.
+
 The affine directory contains a program for encrypting and decrypting plainText using the Affine cipher.
 Example usage: echo HELLO | affine encrypt 7 2
 Example usage: echo ZEBBW | affine decrypt 7 2
